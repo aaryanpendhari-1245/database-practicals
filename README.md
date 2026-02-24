@@ -47,5 +47,6 @@ Tables created:
 - Table renaming and restructuring
 
 ## File Included
+https://github.com/aaryanpendhari-1245/database-practicals.git
 
 
