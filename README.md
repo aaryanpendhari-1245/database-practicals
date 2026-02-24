@@ -2,6 +2,7 @@
 SQL DDL PROJECT
 Database Project (MySQL)
 
+Overview
 It includes:
 
 Table creation
@@ -92,4 +93,5 @@ Views (TopSellingBooks)
 Table renaming and restructuring
 
 File Included
+https://github.com/aaryanpendhari-1245/database-practicals.git
 
