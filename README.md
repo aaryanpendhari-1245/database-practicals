@@ -1,97 +1,51 @@
-# database-practicals
-SQL DDL PROJECT
-Database Project (MySQL)
+# Online Bookstore Database Project (MySQL)
 
-Overview
-It includes:
-
-Table creation
-Primary and foreign keys
-Composite keys
-Constraints (CHECK, UNIQUE, DEFAULT)
-Views
-Table modifications
-Real-world database scenarios
-
-Technologies Used
-
-MySQL 8.0.45
-MySQL Workbench
-SQL (DDL)
-
-Database Features
-Tables created:
-
-Authors
-Books
-Categories
-Customers / Clients
-Orders
-OrderDetails
-Payments
-DeliveryAgents
-ReturnRequests
-Wishlists
-BookReviews
-Coupons
-DeliveryLogs
-
-Advanced Features
-
-Foreign key relationships
-Composite primary keys
-Check constraints
-Default constraints
-Views (TopSellingBooks)
-Table renaming and restructuring
-
-File Included
- Database Project (MySQL)
-Overview
+## Overview
 This project demonstrates the complete database design for an Online Bookstore using MySQL.
 
 It includes:
 
-Table creation
-Primary and foreign keys
-Composite keys
-Constraints (CHECK, UNIQUE, DEFAULT)
-Views
-Table modifications
-Real-world database scenarios
+- Table creation
+- Primary and foreign keys
+- Composite keys
+- Constraints (CHECK, UNIQUE, DEFAULT)
+- Views
+- Table modifications
+- Real-world database scenarios
 
-Technologies Used
+## Technologies Used
 
-MySQL 8.0.45
-MySQL Workbench
-SQL (DDL)
+- MySQL 8.0.45
+- MySQL Workbench
+- SQL (DDL)
 
-Database Features
+## Database Features
+
 Tables created:
 
-Authors
-Books
-Categories
-Customers / Clients
-Orders
-OrderDetails
-Payments
-DeliveryAgents
-ReturnRequests
-Wishlists
-BookReviews
-Coupons
-DeliveryLogs
+- Authors
+- Books
+- Categories
+- Customers / Clients
+- Orders
+- OrderDetails
+- Payments
+- DeliveryAgents
+- ReturnRequests
+- Wishlists
+- BookReviews
+- Coupons
+- DeliveryLogs
 
-Advanced Features
+## Advanced Features
 
-Foreign key relationships
-Composite primary keys
-Check constraints
-Default constraints
-Views (TopSellingBooks)
-Table renaming and restructuring
+- Foreign key relationships
+- Composite primary keys
+- Check constraints
+- Default constraints
+- Views (TopSellingBooks)
+- Table renaming and restructuring
 
-File Included
-https://github.com/aaryanpendhari-1245/database-practicals.git
+## File Included
+
 
